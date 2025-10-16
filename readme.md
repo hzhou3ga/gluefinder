@@ -1,6 +1,7 @@
 Supplemental data for 
+
 GlueFinder: A Data-Driven Framework for the Rational Discovery of Molecular Glues
-by 
+ 
 
 Jeffrey Skolnick, Bharath Srinivasan, and Hongyi Zhou
 
